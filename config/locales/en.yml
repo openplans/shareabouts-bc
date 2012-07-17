@@ -2,7 +2,7 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 en:
-  app_name: Shareabouts
+  app_name: 'SEPTA Bike Parking'
   map_controls:
     locate_feature: 'Add a location!'
     finalize_feature: 'Confirm Location'
@@ -33,7 +33,7 @@ en:
       label: comment
       action: Comment
     voter_description: supporter
-    vote_action: 'Support This!'
+    vote_action: 'I\'d park my bike here!'
     sharing:
       email:
         subject: 'I suggested a %{thing}'
